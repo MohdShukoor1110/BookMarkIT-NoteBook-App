@@ -24,6 +24,7 @@ This is a comprehensive full-stack project for a Note Application. It is compose
 - **MongoDB Database:** Uses Mongoose for easy interaction with a MongoDB database.
 - **Rate Limiting:** Implements a rate limiter to protect the API from excessive requests.
 - **CORS:** Configured to accept requests from a specific frontend origin (http://localhost:3000).
+- **Dark/Light Mode:** Toggle between themes for better readability.
 
 ## 🚀 Installation & Setup
 
@@ -73,3 +74,5 @@ The application will open in your browser, typically at http://localhost:3000.
 | `/` | The homepage, which displays all notes. |
 | `/create` | A page with a form to create a new note. |
 | `/note/:id` | A page to view, edit, or delete a specific note. |
+
+Made with ❤️ using React.
