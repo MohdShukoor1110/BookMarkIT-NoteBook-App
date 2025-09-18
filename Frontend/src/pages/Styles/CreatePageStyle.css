@@ -1,0 +1,5 @@
+.bg-dark::placeholder,
+.bg-dark.form-control::placeholder {
+  color: #ffffff !important;
+  opacity: 0.3;
+}
