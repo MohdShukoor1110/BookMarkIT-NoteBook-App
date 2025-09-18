@@ -2,7 +2,7 @@
 
 This is a comprehensive full-stack project for a Note Application. It is composed of two main parts: a backend API built with Node.js and a frontend client built with React. The application allows users to create, read, update, and delete notes, with API rate-limiting to prevent excessive requests.
 
-## WebSite Preview
+## 🔎 WebSite Preview
 ![Project Screenshot](https://github.com/MohdShukoor1110/BookMarkIT-NoteBook-App/blob/main/BookMarkIt-NoteBook%20App.png)
 
 ## ⚙️ Technologies Used
